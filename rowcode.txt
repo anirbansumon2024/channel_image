@@ -1,1 +1,2 @@
-row link
+row link 
+https://raw.githubusercontent.com/anirbansumon2024/channel_image/refs/heads/main/{contentname}
